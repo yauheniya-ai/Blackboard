@@ -1,5 +1,7 @@
 # Blackboard Application
 
+![Screenshot](screenshot.png)
+
 This is a simple blackboard application built using Tkinter in Python. It allows users to draw on a canvas with different colors and brush sizes.
 
 ## Features
