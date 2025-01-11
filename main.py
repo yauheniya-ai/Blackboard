@@ -18,7 +18,9 @@ class BlackboardApp:
 
     def setup_ui(self):
         """Set up the user interface."""
-
+        self.image_icon = PhotoImage(file="logo.png")
+        self.root.iconphoto(False, self.image_icon)
+        
         self.color_box = PhotoImage(file="color_section.png")
         Label(self.root, image=self.color_box, bg="#272827").place(x=10, y=20)
 
