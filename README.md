@@ -1,23 +1,24 @@
 # Blackboard Application
 
-![Screenshot](screenshot.png)
+![Screenshot](20250118_Screenshot.png)
 
-This is a simple blackboard application built using Tkinter in Python. It allows users to draw on a canvas with different colors and brush sizes.
+This is a user-friendly blackboard application built with Tkinter in Python. It enables drawing and typing on a canvas with customizable colors, sizes, and modes.
 
 ## Author
 
-Yauheniya Varabyova
+Yauheniya
 
 ## Version
 
-1.0.0
+1.1.0
 
 ## Features
 
-- Draw on a canvas with different colors
-- Change brush size using a slider
-- Clear the canvas with an eraser button
-- Color palette for selecting different colors
+- Switch between drawing and typing modes
+- Adjust brush and text size with a slider
+- Select colors from a customizable palette
+- Reset the canvas to clean black 
+- Save canvas as a timestamped PNG image.
 
 ## Use Cases
 
